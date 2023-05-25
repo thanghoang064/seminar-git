@@ -1,1 +1,1 @@
-console.log("Đây là chức năng hiên thị sản phẩm");
+console.log("Đây là  ewerwerwwer ewrwre chức năng hiên thị sản phẩm");
